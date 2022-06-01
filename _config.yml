@@ -1,6 +1,6 @@
-title:              Shad's Data Science Blog
+title:              Just Another Blog
 email:              shadfdz@gmail.com
-description:        A Data Science Blog for the Masses
+description:        I heard I need one of these to get a job in data science
 author:             Shad Fernandez
 baseurl:            ""
 url:                "https://shadfdz.github.io"
@@ -9,7 +9,7 @@ url:                "https://shadfdz.github.io"
 twitter_username:   
 github_username:    shadfdz
 facebook_username:  
-instagram_username:  shad.meister
+instagram_username:  
 linkedin_username:  shad-fernandez
 
 # Add your google-analytics ID here to activate google analytics
