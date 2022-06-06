@@ -1,0 +1,35 @@
+I"�<h2 id="starting-a-data-science-project">Starting a Data Science Project</h2>
+
+<p>Let’s start a data science project from scratch. In this series, analyze online customer intention by following the CRISP-DM data science life process. For part 1, we’re going to setup our project, understand our data, perform exploratory data analysis. For part 2, we’re going to focus on data cleansing and feature engineering methods. Part 3 will involve modeling our data and Part 4 will be useful deployment tools such flask and Docker.<br />
+Whew. Where to begin?</p>
+
+<h2 id="hol-up">Hol up</h2>
+<p>Before we start coding blindly, we will have to follow a</p>
+
+<h2 id="data">Data</h2>
+
+<h2 id="setting-up-our-workspace-and-github">Setting Up Our Workspace and Github</h2>
+
+<p>For this project, we will be using Visual Studio Code to create our</p>
+
+<p>Set up our environment with dev and</p>
+
+<h2 id="lets-work-with-pandas">Let’s work with Pandas</h2>
+
+<p>load our data</p>
+
+<p><img src="https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset" alt="data set" /></p>
+
+<p>Acknowledgements
+Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput &amp; Applic (2018).</p>
+
+<h2 id="visualize-our-data-see-distribution-pattern-trends">Visualize Our Data See Distribution Pattern Trends</h2>
+<p>visualize our data with plotly</p>
+
+<p>look at trends</p>
+
+<p>response bin mean?</p>
+
+<p>Corr plot</p>
+
+:ET
