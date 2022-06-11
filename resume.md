@@ -38,7 +38,7 @@ using various physical and chemical analytical methods. \
 • Generate reports of membrane compatibility and water analysis findings for the sales department.
 
 
-**Quality Control Analyst I**, *Shire PLC (Formerly Baxter, Baxalta)*, November 2014 – December 2016
+**Quality Control Analyst I**, *Shire PLC (Formerly Baxter, Baxalta)*, November 2014 – December 2016 \
 • Ensured timely testing of in process, final container samples by coordinating lab testing with the manufacturing schedule as Laboratory Shift Lead \
 • Conducted routine and non-routine analyses of plasma products and raw materials using GC, UV-Vis spectrophotometers, turbidity meters, flame photometers, and complex immunoassays. \
 • Monitored plant wide critical systems including WFI, RO water, alcohol, and nitrogen using conductivity, TOC, and limulus amebocyte lysate immunoassays. \
@@ -57,7 +57,7 @@ using various physical and chemical analytical methods. \
 
 ### Software and Skills
 *Proficient*: Python (Data Science Stack), SQL, Tableau \
-*Some Experience*: R, C++, Java, Bash, PHP, HTML, CSS
+*Some Experience*: R, C++, Java, Bash, PHP, HTML, CSS, Docker, Flask, Apache Ni-Fi, Denodo
 
 ### Projects
 **Anomaly Detection in Wastewater Infrastructures Using Supervised and Semi-supervised Learning**, *December 2021-Present* \
@@ -72,7 +72,7 @@ Created a facial emotion recognition pipeline and analyzed emotion distribution 
 [**Predicting MLB Baseball Game Outcomes**](https://github.com/shadfdz/baseball_modeling) \
 Analyzed, engineered features, and modeled MLB data to predict the winning team in a match using Pyspark, Python, and machine learning. Containerized the python package using Docker.
 
-[**BurgerHub Restaurants**](https://github.com/shadfdz/burger_paradise_site)
+[**BurgerHub Restaurants (Group Project)**](https://github.com/shadfdz/burger_paradise_site)
 Created a database for a burger joint’s online ordering website using MySQL, XAMPP and PHP.  Collected user requirements and created the entity-relationship diagram (ERD) using Lucid chart.
 
 [**Database for Project Management (Group Project)**](https://github.com/shadfdz/mis686_finalproject)
