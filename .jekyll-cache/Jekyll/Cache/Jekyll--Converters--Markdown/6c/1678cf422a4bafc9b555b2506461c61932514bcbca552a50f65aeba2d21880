@@ -1,0 +1,72 @@
+I"�<h3 id="professional-experience">Professional Experience</h3>
+
+<p>References avilable upon <a href="https://shadfdz.github.io/contact">request</a>.</p>
+
+<p><strong>Configuration Analyst 1</strong>, <em>Illumina Inc.,</em> November 2021 - March 2022 <br />
+•	Collaborated with stakeholders in identifying business requirements, KPIs and Metrics and communicated insights during Tier 1 and Tier 2 board meetings <br />
+•	Configured scripts for automated reporting and created operational dashboards by leveraging data from SAP HANA, Camstar, LabVantage LIMS using Python, R, Jira, Confluence, and Tableau Server. <br />
+•	Identified process gaps and created solutions using automated reporting from multiple enterprise sources.
+•	Established statistical process control dashboards for quality control using six siigma and NWA Quality Analyst. \</p>
+
+<p><strong>Quality Control Analyst 2</strong>, <em>Illumina Inc.,</em> April 2021 - November 2021 <br />
+• Perform routine and non-routine analytical, biochemical, and molecular biology assays on bulks and finished goods in a timely manner. <br />
+• Assist in non production sample testing for method development, validation, and investigations. <br />
+• Create and maintain an HPLC column dashboard to track column performance using Tableau and SQL. <br />
+• Participate in Tier 2 and QCTO sustaining meetings to assist in tracking department performance.</p>
+
+<p><strong>Manufacturing Specialist 3</strong>, <em>Illumina Inc.,</em> October 2017 - April 2021 <br />
+• Formulate biochemical reagents and perform analytical testing on bulks using UHPLC, ICS, and spectramax. <br />
+• Work in conjunction with Planning, Scheduling, MMT, and MTO in resolving process issues, material discrepancies, and scheduling problems as reagent Water Spider shift lead. <br />
+• Drive continuous improvement through metric trending, KPIs and 6S as High Performance Work Team lead. <br />
+• Participated in NPI activities including ER and protocol reviews, smoke testing, and MES workflow checklists. <br />
+• Maintain the reagent formulation Tableau dashboard and create custom queries of SAP HANA data using R scripting. <br />
+• Train and guide new team members on reagent manufacturing and acquaint them with Illumina culture.</p>
+
+<p><strong>Lab Services Chemist</strong>, <em>Avista Technologies,</em> December 2016 - October 2017 <br />
+• Analyze large scale filtration systems and autopsy reverse osmosis membranes, ultrafiltration modules and cartridge filters. <br />
+using various physical and chemical analytical methods. <br />
+• Recommend chemical cleaners based on membrane foulant analysis using zeta potential, LOI, microscope analysis, SEM and GC/MS data. <br />
+• Perform coagulant compatibility, filtration studies and water analysis on reverse osmosis system source water. <br />
+• Generate reports of membrane compatibility and water analysis findings for the sales department.</p>
+
+<p><strong>Quality Control Analyst I</strong>, <em>Shire PLC (Formerly Baxter, Baxalta)</em>, November 2014 – December 2016
+• Ensured timely testing of in process, final container samples by coordinating lab testing with the manufacturing schedule as Laboratory Shift Lead <br />
+• Conducted routine and non-routine analyses of plasma products and raw materials using GC, UV-Vis spectrophotometers, turbidity meters, flame photometers, and complex immunoassays. <br />
+• Monitored plant wide critical systems including WFI, RO water, alcohol, and nitrogen using conductivity, TOC, and limulus amebocyte lysate immunoassays. <br />
+•  Participated and authored study protocols to validate SOP improvement projects and support timely closure of LIRS.</p>
+
+<h3 id="educational-background">Educational Background</h3>
+<p><strong>M.S Big Data Analytics</strong>, <em>San Diego State University</em>, August 2020 - May 2022 <br />
+- <em>Relevant Coursework</em>: Big Data Science and Analytics Platforms, Business Analytics, Business Statistics, Database Management, Machine Learning, Python Scripting</p>
+
+<p><strong>B.S Biochemistry and Chemistry</strong>, <em>University of California, San Diego</em>, September 2020 - June 2022</p>
+
+<p><strong>Business Intelligence Certificate</strong>, <em>UCSD, Extenstion</em>, January 2018 - March 2019</p>
+
+<p><strong>Certificate of Performance, C++</strong>, <em>Miramar College</em>, June 2019</p>
+
+<h3 id="software-and-skills">Software and Skills</h3>
+<p><em>Proficient</em>: Python (Data Science Stack), SQL, Tableau <br />
+<em>Some Experience</em>: R, C++, Java, Bash, PHP, HTML, CSS</p>
+
+<h3 id="projects">Projects</h3>
+<p><strong>Anomaly Detection in Wastewater Infrastructures Using Supervised and Semi-supervised Learning</strong>, <em>December 2021-Present</em> <br />
+Detected and classified anomalies in CCTV of wastewater infrastrcuturing in Imperial Beach, CA using deep convolutional encoders and YOLOV5 (paper submission in progress).</p>
+
+<p><a href="https://github.com/shadfdz/speechEmotionRecognition"><strong>Speech Emotion Recognition Using Deep Learning (Group Project)</strong></a>
+Designed an LSTM network to model speech emotion using PyTorch, Cuda and Librosa. Deployed the model as a <a href="https://kelvinm10.github.io/SER_Website/">web app</a> using Heroku.</p>
+
+<p><a href="(https://github.com/shadfdz/Facial_Recognition_CS549)"><strong>Facial Emotion Recognition Using Mediapipe and a PreTrained CNN Models</strong></a> <br />
+Created a facial emotion recognition pipeline and analyzed emotion distribution and change over time using pretrained models.</p>
+
+<p><a href="https://github.com/shadfdz/baseball_modeling"><strong>Predicting MLB Baseball Game Outcomes</strong></a>
+Analyzed, engineered features, and modeled MLB data to predict the winning team in a match using Pyspark, Python, and machine learning. Containerized the python package using Docker.</p>
+
+<p><a href="https://github.com/shadfdz/burger_paradise_site"><strong>BurgerHub Restaurants</strong></a>
+Created a database for a burger joint’s online ordering website using MySQL, XAMPP and PHP.  Collected user requirements and created the entity-relationship diagram (ERD) using Lucid chart.</p>
+
+<p><strong>Analyzing Online Shopper Intention</strong></p>
+
+<p><strong>Database for Project Management</strong></p>
+
+:ET
