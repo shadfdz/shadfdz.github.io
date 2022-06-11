@@ -78,8 +78,4 @@ Created a database for a burger joint’s online ordering website using MySQL, X
 [**Database for Project Management (Group Project)**](https://github.com/shadfdz/mis686_finalproject)
 Desgined and created a database for a project management company using T-SQL. Collected business and user requiremets and created a UML diagream.
 
-### Hobbies and Interests
-Surfing, Golf, Food, and Photography.
-
-
 
