@@ -61,7 +61,7 @@ using various physical and chemical analytical methods. \
 
 ### Projects
 **Anomaly Detection in Wastewater Infrastructures Using Supervised and Semi-supervised Learning**, *December 2021-Present* \
-Detected and classified anomalies in CCTV of wastewater infrastrcuturing in Imperial Beach, CA using deep convolutional encoders and YOLOV5 (paper submission in progress).
+Detected and classified anomalies in CCTV of wastewater infrastructures in Imperial Beach, CA using deep convolutional autoencoders and YOLOV5 (paper submission in progress).
 
 [**Speech Emotion Recognition Using Deep Learning (Group Project)**](https://github.com/shadfdz/speechEmotionRecognition) \
 Designed an LSTM network to model speech emotion using PyTorch, Cuda and Librosa. Deployed the model as a [web app](https://kelvinm10.github.io/SER_Website/) using Heroku. 
@@ -79,7 +79,7 @@ Created a database for a burger joint’s online ordering website using MySQL, X
 Desgined and created a database for a project management company using T-SQL. Collected business and user requiremets and created a UML diagream.
 
 ### Hobbies and Interests
-Surfing, Golf, Food, and Photography. 
+Surfing, Golf, Food, and Photography.
 
 
 
