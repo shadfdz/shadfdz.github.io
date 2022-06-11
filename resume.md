@@ -57,7 +57,7 @@ using various physical and chemical analytical methods. \
 
 ### Software and Skills
 *Proficient*: Python (Data Science Stack), SQL, Tableau \
-*Some Experience*: R, C++, Java, Bash, PHP, HTML, CSS, Docker, Flask, Apache Ni-Fi, Denodo
+*Some Experience*: R, C++, Java, Bash, PHP, HTML, CSS, Docker, Flask, Apache Ni-Fi, Denodo, MongoDB, Spark
 
 ### Projects
 **Anomaly Detection in Wastewater Infrastructures Using Supervised and Semi-supervised Learning**, *December 2021-Present* \
