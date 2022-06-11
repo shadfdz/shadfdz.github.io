@@ -69,7 +69,7 @@ Designed an LSTM network to model speech emotion using PyTorch, Cuda and Librosa
 [**Facial Emotion Recognition Using Mediapipe and a PreTrained CNN Models**]((https://github.com/shadfdz/Facial_Recognition_CS549)) \
 Created a facial emotion recognition pipeline and analyzed emotion distribution and change over time using pretrained models.
 
-[**Predicting MLB Baseball Game Outcomes**](https://github.com/shadfdz/baseball_modeling)
+[**Predicting MLB Baseball Game Outcomes**](https://github.com/shadfdz/baseball_modeling) \
 Analyzed, engineered features, and modeled MLB data to predict the winning team in a match using Pyspark, Python, and machine learning. Containerized the python package using Docker.
 
 [**BurgerHub Restaurants**](https://github.com/shadfdz/burger_paradise_site)
